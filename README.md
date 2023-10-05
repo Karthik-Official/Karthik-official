@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 <h3 align="center">A Passionate Computer Science and Technology Enthusiast</h3>
-- 👀 I’m interested in Programming, Networking, IoT, Information Security.
-- 🌱 I have done Masters in Computer Applications.
-- 💞️ I’m looking to collaborate on various interesting projects to improve my Knowledge and Skills.
+<p> - 👀 I’m interested in Programming, Networking, IoT, Information Security. </p>
+<p> - 🌱 I have done Masters in Computer Applications. </p>
+<p> - 💞️ I’m looking to collaborate on various interesting projects to improve my Knowledge and Skills. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
